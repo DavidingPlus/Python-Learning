@@ -1,4 +1,4 @@
-# Python-Learning
+# python-learning
 
 - `Python`语言的学习.
 
